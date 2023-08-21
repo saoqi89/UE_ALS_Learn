@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Datasource.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Intermediate\Build\Win64\Doufeng_3DEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.h.obj"
+"D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Intermediate\Build\Win64\UE4Editor\Development\Datasource\Module.Datasource.cpp.obj"
+"D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Intermediate\Build\Win64\UE4Editor\Development\Datasource\Module.Datasource.gen.cpp.obj"
+"D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Intermediate\Build\Win64\UE4Editor\Development\Datasource\Default.rc2.res"
+/OUT:"D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Intermediate\Build\Win64\UE4Editor\Development\Datasource\UE4Editor-Datasource.lib"

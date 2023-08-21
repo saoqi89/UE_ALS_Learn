@@ -1,0 +1,23 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Datasource.cpp.obj": [
+			"DataManager.cpp.obj",
+			"datasource.cpp.obj",
+			"DatasourceImpl.cpp.obj",
+			"DatasourceModule.cpp.obj",
+			"submanager.cpp.obj",
+			"subscribebase.cpp.obj",
+			"Subscriber.cpp.obj",
+			"tinyxml2.cpp.obj",
+			"uepublisher.cpp.obj",
+			"submanagerandroid.cpp.obj"
+		],
+		"Module.Datasource.gen.cpp.obj": [
+			"datasource.gen.cpp.obj",
+			"Datasource.init.gen.cpp.obj",
+			"DatasourceImpl.gen.cpp.obj",
+			"Subscriber.gen.cpp.obj"
+		]
+	}
+}

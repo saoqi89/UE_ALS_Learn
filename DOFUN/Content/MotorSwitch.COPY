@@ -1,0 +1,8 @@
+Begin Object Class=/Script/Engine.CurveFloat Name="MotorSwitch"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   FloatCurve=(Keys=((InterpMode=RCIM_Cubic,TangentMode=RCTM_User,ArriveTangent=0.191639,LeaveTangent=0.191639),(InterpMode=RCIM_Cubic,TangentMode=RCTM_User,Time=0.373925,Value=0.047285),(InterpMode=RCIM_Cubic,TangentMode=RCTM_User,Time=1.697102,Value=0.946033,ArriveTangent=0.329870,LeaveTangent=0.329870),(InterpMode=RCIM_Cubic,TangentMode=RCTM_User,Time=2.000000,Value=0.997741)))
+   AssetImportData=AssetImportData'"AssetImportData"'
+End Object

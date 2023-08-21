@@ -1,0 +1,80 @@
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Intermediate\Build\Win64\UE4Editor\Development\Datasource\Definitions.Datasource.h
+D:/Projetes/Git/ue4_3d_doufeng/Doufeng/Plugins/Datasource/Source/Datasource/Private/DataManager.cpp
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\DataManager.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xtree
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\unordered_map
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xhash
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xbit_ops.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\msg.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\message.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\common.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iterator
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xerrc.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\DatasourceImpl.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\Datasource.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Intermediate\Build\Win64\UE4Editor\Inc\Datasource\DataSource.generated.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\thread
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\__msvc_chrono.hpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\ratio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_startup.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Intermediate\Build\Win64\UE4Editor\Inc\Datasource\DatasourceImpl.generated.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\Subscriber.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Intermediate\Build\Win64\UE4Editor\Inc\Datasource\Subscriber.generated.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\uesubscribe.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\subscribebase.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\submanager.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\submanagerandroid.h
+D:/Projetes/Git/ue4_3d_doufeng/Doufeng/Plugins/Datasource/Source/Datasource/Private/datasource.cpp
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\DatasourceModule.h
+D:\Software\Toolclass\UE_4.27\Engine\Source\Developer/DesktopPlatform/Public/DesktopPlatformModule.h
+D:\Software\Toolclass\UE_4.27\Engine\Source\Developer\DesktopPlatform\Public\IDesktopPlatform.h
+D:\Software\Toolclass\UE_4.27\Engine\Source\Runtime/Core/Public/HAL/FileManagerGeneric.h
+D:/Projetes/Git/ue4_3d_doufeng/Doufeng/Plugins/Datasource/Source/Datasource/Private/DatasourceImpl.cpp
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\uepublisher.h
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\publisherbase.h
+D:/Projetes/Git/ue4_3d_doufeng/Doufeng/Plugins/Datasource/Source/Datasource/Private/DatasourceModule.cpp
+D:/Projetes/Git/ue4_3d_doufeng/Doufeng/Plugins/Datasource/Source/Datasource/Private/submanager.cpp
+D:/Projetes/Git/ue4_3d_doufeng/Doufeng/Plugins/Datasource/Source/Datasource/Private/subscribebase.cpp
+D:\Projetes\Git\ue4_3d_doufeng\Doufeng\Plugins\Datasource\Source\Datasource\Public\tinyxml2.h
+D:/Projetes/Git/ue4_3d_doufeng/Doufeng/Plugins/Datasource/Source/Datasource/Private/Subscriber.cpp
+D:/Projetes/Git/ue4_3d_doufeng/Doufeng/Plugins/Datasource/Source/Datasource/Private/tinyxml2.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdarg
+D:/Projetes/Git/ue4_3d_doufeng/Doufeng/Plugins/Datasource/Source/Datasource/Private/uepublisher.cpp
+D:/Projetes/Git/ue4_3d_doufeng/Doufeng/Plugins/Datasource/Source/Datasource/Public/submanagerandroid.cpp

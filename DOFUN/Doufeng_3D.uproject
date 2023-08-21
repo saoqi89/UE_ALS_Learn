@@ -1,0 +1,45 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Doufeng_3D",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "DatasmithC4DImporter",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac"
+			]
+		},
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "USDImporter",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "USDMultiUser",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
